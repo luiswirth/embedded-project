@@ -1,0 +1,9 @@
+sync_gitignore: false
+
+projects:
+  pico-ota:
+    path: ../pico-ota
+    url: git@github.com:luiswirth/pico-ota.git
+  inkpico:
+    path: ../inkpico
+    url: git@github.com:luiswirth/inkpico.git
