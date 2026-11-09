@@ -6,6 +6,7 @@ Firmware for microcontrollers, one repository each, as siblings of `project`.
 - The Pico stays near the Mac, on its USB or on its own power, so firmware work happens on the Mac.
 - It is on the Wi-Fi `7g` as `inkpico.local`, at 192.168.0.240:
   After a power cycle the name can fail to resolve for a while, and `just host=192.168.0.240 ...` reaches it.
+  The Mac is on it when `ipconfig getsummary en0` names the router 192.168.0.1.
 - Each repository has the Pico SDK in its flake's dev shell.
 - Prose in these repositories, AGENTS.md included, needs no acceptance as a diff.
 
