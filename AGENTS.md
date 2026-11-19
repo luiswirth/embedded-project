@@ -1,6 +1,6 @@
 # embedded
 
-Firmware for microcontrollers, one repository each, as siblings of `project`.
+Firmware for my microcontrollers, such as the e-paper panel in my room, one repository each, as siblings of `project`.
 
 - The hardware is a Raspberry Pi Pico W (RP2040 + CYW43439) with a Waveshare 5.83" e-paper V2 (648x480, black and white) on the Pico-ePaper board.
 - The Pico stays near the Mac, on its USB or on its own power, so firmware work happens on the Mac.
